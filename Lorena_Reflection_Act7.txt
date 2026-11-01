@@ -1,0 +1,19 @@
+What type of attack did you find most difficult? Why?
+
+Distributed Denial-of-Service (DDoS) attacks because it has a complex attack that anomalous spoofed a traffic to the network and lateral movement across multiple subnets. 
+
+Which mitigation strategy did you use most often?
+
+Network segmentation and access control enforcement since it was blocking a malicious IP addresses at firewall. Also the containment, it is always priority during an incident to a scenario before applying permanent description and provide an answer to resolve the problem.
+
+How did the logs panel help you understand the attack?
+
+It filters authentication logs and DNS query which are helpful to SOC environment to track and reconstruct the attack. Also, to pinpoint the exact commands that was executed of system compromise.
+
+Why is quick decision-making important in cybersecurity?
+
+Since the threat actor are not taking a rest. Quick decision minimizes the time of a threat actor to prevents minor alerts from cascading on the whole system. 
+
+What will you improve next time?
+
+More knowledge about the attack. Get the idea on how the initial log indicate what is important to analyse. 
